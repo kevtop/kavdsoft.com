@@ -1,0 +1,14 @@
+.contenedorElementosInternos{
+    background-color: white;
+    margin: 50px;
+}
+.contenedorElementos{
+    background-color: #e5eecc;
+    border: 1px solid #d4d4d4;
+    padding: 50px;
+    position: absolute;
+    text-align: center;
+}
+.seleccionado{
+    border: 3px solid blue;
+}
